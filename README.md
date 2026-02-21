@@ -92,9 +92,9 @@ OpenAI API • Prompt Engineering • Resume Analysis Models
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhushanth05&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=dhushanth05&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhushanth05&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhushanth05&layout=compact)
 
 ---
 
