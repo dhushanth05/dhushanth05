@@ -1,117 +1,121 @@
-# 👋 Hi, I'm Dhushanth S
+# 👋 Hi, I'm Dhushanth Srinivasa
 
-🚀 **Full-Stack Developer | AI Enthusiast | Engineering Student**
+### Software Engineering Student | Full-Stack Developer | AI & Data Enthusiast
 
-I build real-world **AI-powered web applications** that solve practical problems like resume optimization, smart content generation, and analytics dashboards.
+I'm a Computer Science and Design student focused on building practical software products across **full-stack development, AI, data, and backend systems**.
 
-Currently working on turning my projects into **production-ready SaaS products**.
+I enjoy turning ideas into functional applications and exploring technologies that make software more intelligent, scalable, and useful.
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 ResumePilot AI
+### 📄 ResumePilot
+**AI-powered Resume Analysis Platform**
 
-AI-powered resume analyzer, comparison engine, and smart resume generator.
+ResumePilot analyzes resumes against job descriptions and provides actionable insights for improving ATS compatibility and job alignment.
 
-**Features**
-• Resume scoring & improvement suggestions
-• AI resume generator
-• Resume vs Job Description comparison
-• Analytics dashboard
+**Key Features**
+- ATS compatibility scoring
+- Resume & job description analysis
+- Skill gap detection
+- Keyword matching
+- AI-powered improvement suggestions
+- Resume comparison
+- Analytics dashboard
+- JWT authentication & role-based access
 
 **Tech Stack**
-Next.js • TypeScript • Python • MySQL • OpenAI API
 
-👉 GitHub: https://github.com/dhushanth05/ResumePilot
-👉 Demo: (Add Link)
+`Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL` `SQLAlchemy` `Redis` `OpenAI` `spaCy` `Sentence Transformers` `Docker`
+
+🔗 [GitHub Repository](https://github.com/dhushanth05/ResumePilot)
 
 ---
 
-## 🔹 Storyspire
+### 📚 Storyspire
+**AI-Powered Storytelling Mobile Application**
 
-An AI-based story generation, narration, and image creation platform.
+A cross-platform mobile application that generates personalized stories with AI-generated images and voice narration.
 
-**Features**
-• AI story writing
-• Voice narration generation
-• Image creation from story scenes
-• Interactive storytelling
+**Key Features**
+- AI story generation with Gemini
+- Child & Adult audience modes
+- AI-generated story images
+- Text-to-speech narration
+- Story library & favorites
+- User authentication
+- Profile management
 
 **Tech Stack**
-TypeScript • React • AI APIs • Media Processing
 
-👉 GitHub: https://github.com/dhushanth05/storyspire
+`React Native` `Expo` `Supabase` `Google Gemini API` `Expo Speech` `Expo Router`
+
+🔗 [GitHub Repository](https://github.com/dhushanth05/storyspire)
 
 ---
 
-## 🔹 Library Management System
+### 📖 Library Management System
 
-Full-stack CRUD system for managing users and books.
+A full-stack application for managing books, users, borrowing records, and library operations.
 
-**Features**
-• Signup/Login system
-• Book borrowing tracking
-• User profile & history
-• MySQL database backend
+**Key Features**
+- User authentication
+- Book management
+- Borrowing & return tracking
+- User history
+- CRUD operations
 
 **Tech Stack**
-HTML • CSS • JavaScript • PHP • MySQL
+
+`HTML` `CSS` `JavaScript` `Backend APIs` `Database`
 
 ---
 
-## 🔹 DBMS Student Attendance System
-
-Database project with full CRUD and analytics.
-
-**Features**
-• Student attendance tracking
-• Admin dashboard
-• Reports & statistics
-
-**Tech Stack**
-MySQL • SQL • Backend Logic
-
----
-
-# 🧠 Skills
+## 🛠️ Technical Skills
 
 **Languages**
-Python • JavaScript • TypeScript • SQL • C++
+
+`Java` `Python` `JavaScript` `TypeScript` `C` `SQL`
 
 **Frontend**
-React • Next.js • Tailwind CSS • HTML • CSS
+
+`React` `Next.js` `React Native` `HTML` `CSS` `Tailwind CSS`
 
 **Backend**
-Node.js • PHP • MySQL • REST APIs
 
-**AI Tools**
-OpenAI API • Prompt Engineering • Resume Analysis Models
+`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs`
 
----
+**Databases**
 
-## 📊 GitHub Stats
+`PostgreSQL` `MySQL` `MongoDB` `Supabase`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dhushanth05&show_icons=true)
+**AI & Data**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhushanth05&layout=compact)
+`OpenAI API` `Google Gemini` `spaCy` `Sentence Transformers` `Pandas` `NumPy` `Matplotlib` `PySpark`
 
----
+**Tools**
 
-# 🎯 Goals for 2026
-
-• Build 3 production-level AI projects
-• Contribute to open source
-• Get Software Engineering Internship
+`Git` `GitHub` `Docker` `Postman` `VS Code`
 
 ---
 
-# 📫 Contact Me
+## 🎯 Currently
 
-📧 Email: [sdhushanth123@gmail.com](mailto:yourmail@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/dhushanth-srinivasa
-🌐 Portfolio: Coming Soon
+- 🎓 Computer Science & Design student
+- 💼 Data Science & MLOps Intern
+- 🌱 Learning distributed data processing with PySpark
+- 🤖 Exploring AI-powered applications and production systems
+- 🚀 Building projects and improving my software engineering skills
 
 ---
 
-⭐ *Always learning. Always building.*
+## 📫 Connect With Me
+
+📧 **Email:** sdhushanth123@gmail.com  
+💼 **LinkedIn:** [Dhushanth Srinivasa](https://linkedin.com/in/dhushanth-srinivasa)  
+🐙 **GitHub:** [dhushanth05](https://github.com/dhushanth05)
+
+---
+
+⭐ *Build. Learn. Improve.*
