@@ -1,28 +1,62 @@
 # 👋 Hi, I'm Dhushanth Srinivasa
 
-### Software Engineering Student | Full-Stack Developer | AI & Data Enthusiast
+### AI/ML & Agentic AI Developer | Full-Stack Engineer | CS & Design Student
 
-I'm a Computer Science and Design student focused on building practical software products across **full-stack development, AI, data, and backend systems**.
-
-I enjoy turning ideas into functional applications and exploring technologies that make software more intelligent, scalable, and useful.
+I'm a third-year Computer Science and Design student building practical software across **agentic AI, machine learning, and full-stack development**. I like turning ideas into working products, especially ones where AI does real work instead of just answering questions.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌿 PlantMind
+**AI-Powered Industrial Knowledge Intelligence Platform** (ET AI Hackathon 2.0)
+
+Turns scattered industrial documents into a searchable knowledge system using RAG and knowledge graphs.
+
+**Tech Stack**
+
+`Gemini API` `FastAPI` `React` `MongoDB` `LangGraph` `RAG` `Knowledge Graphs`
+
+🔗 [GitHub Repository](https://github.com/dhushanth05/PlantMind)
+
+---
+
+### 💊 CYNTHERA
+**AI Drug Repurposing Research Assistant** (team of 4)
+
+An evidence-driven assistant for exploring drug-disease hypotheses. I worked on backend integration, the Interactive Investigation Playground (evidence graphs and multi-hop pathway testing), and the evaluation work (100-case frozen evaluation).
+
+**Tech Stack**
+
+`Python` `FastAPI` `Streamlit` `REST APIs` `SQLite`
+
+🔗 [GitHub Repository](https://github.com/sameekshaa19/cynthera)
+
+---
+
+### 🤝 AgentHire
+**Multi-Agent Recruitment Automation**
+
+A multi-agent system that automates recruitment workflows using LangGraph.
+
+**Tech Stack**
+
+`LangGraph` `Python` [add the rest of your stack]
+
+🔗 [GitHub Repository](add link)
+
+---
+
 ### 📄 ResumePilot
 **AI-powered Resume Analysis Platform**
 
-ResumePilot analyzes resumes against job descriptions and provides actionable insights for improving ATS compatibility and job alignment.
+Analyzes resumes against job descriptions and gives actionable insights for ATS compatibility and job alignment.
 
 **Key Features**
 - ATS compatibility scoring
-- Resume & job description analysis
-- Skill gap detection
-- Keyword matching
+- Skill gap detection & keyword matching
 - AI-powered improvement suggestions
-- Resume comparison
-- Analytics dashboard
+- Resume comparison & analytics dashboard
 - JWT authentication & role-based access
 
 **Tech Stack**
@@ -34,18 +68,9 @@ ResumePilot analyzes resumes against job descriptions and provides actionable in
 ---
 
 ### 📚 Storyspire
-**AI-Powered Storytelling Mobile Application**
+**AI-Powered Storytelling Mobile App**
 
-A cross-platform mobile application that generates personalized stories with AI-generated images and voice narration.
-
-**Key Features**
-- AI story generation with Gemini
-- Child & Adult audience modes
-- AI-generated story images
-- Text-to-speech narration
-- Story library & favorites
-- User authentication
-- Profile management
+A cross-platform app that generates personalized stories with AI images and voice narration, with Child and Adult modes.
 
 **Tech Stack**
 
@@ -55,20 +80,7 @@ A cross-platform mobile application that generates personalized stories with AI-
 
 ---
 
-### 📖 Library Management System
-
-A full-stack application for managing books, users, borrowing records, and library operations.
-
-**Key Features**
-- User authentication
-- Book management
-- Borrowing & return tracking
-- User history
-- CRUD operations
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Backend APIs` `Database`
+*Also built: Library Management System, Plant Disease Detection System (CNN / MobileNetV2 transfer learning)*
 
 ---
 
@@ -76,23 +88,27 @@ A full-stack application for managing books, users, borrowing records, and libra
 
 **Languages**
 
-`Java` `Python` `JavaScript` `TypeScript` `C` `SQL`
+`Python` `Java` `JavaScript` `TypeScript` `C` `SQL`
+
+**AI & Agents**
+
+`LangGraph` `RAG` `Knowledge Graphs` `OpenAI API` `Google Gemini` `spaCy` `Sentence Transformers` `CNNs / Transfer Learning` `OpenCV`
+
+**Data**
+
+`Pandas` `NumPy` `Matplotlib` `PySpark`
 
 **Frontend**
 
-`React` `Next.js` `React Native` `HTML` `CSS` `Tailwind CSS`
+`React` `Next.js` `React Native` `Tailwind CSS` `HTML` `CSS`
 
 **Backend**
 
-`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs`
+`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
 
 **Databases**
 
-`PostgreSQL` `MySQL` `MongoDB` `Supabase`
-
-**AI & Data**
-
-`OpenAI API` `Google Gemini` `spaCy` `Sentence Transformers` `Pandas` `NumPy` `Matplotlib` `PySpark`
+`PostgreSQL` `MySQL` `MongoDB` `Supabase` `SQLite`
 
 **Tools**
 
@@ -102,11 +118,10 @@ A full-stack application for managing books, users, borrowing records, and libra
 
 ## 🎯 Currently
 
-- 🎓 Computer Science & Design student
-- 💼 Data Science & MLOps Intern
+- 🎓 Third-year B.E. Computer Science & Design student at DSATM, Bangalore (graduating 2027)
+- 💼 Data Science & MLOps Intern at Krosum Labs, working on ML modelling with banking datasets
 - 🌱 Learning distributed data processing with PySpark
-- 🤖 Exploring AI-powered applications and production systems
-- 🚀 Building projects and improving my software engineering skills
+- 🤖 Building agentic AI systems and production-ready AI applications
 
 ---
 
