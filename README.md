@@ -4,6 +4,7 @@
 
 I'm a third-year Computer Science and Design student building practical software across **agentic AI, machine learning, and full-stack development**. I like turning ideas into working products, especially ones where AI does real work instead of just answering questions.
 
+
 ---
 
 ## 🚀 Featured Projects
@@ -22,7 +23,7 @@ Turns scattered industrial documents into a searchable knowledge system using RA
 ---
 
 ### 💊 CYNTHERA
-**AI Drug Repurposing Research Assistant** (team of 4)
+**AI Drug Repurposing Research Assistant** (Team of 4)
 
 An evidence-driven assistant for exploring drug-disease hypotheses. I worked on backend integration, the Interactive Investigation Playground (evidence graphs and multi-hop pathway testing), and the evaluation work (100-case frozen evaluation).
 
@@ -41,9 +42,9 @@ A multi-agent system that automates recruitment workflows using LangGraph.
 
 **Tech Stack**
 
-`LangGraph` `Python` [add the rest of your stack]
+`LangGraph` `Python` `AI Agents`
 
-🔗 [GitHub Repository](add link)
+🔗 [GitHub Repository](add-link-here)
 
 ---
 
@@ -127,6 +128,8 @@ A cross-platform app that generates personalized stories with AI images and voic
 
 ## 📫 Connect With Me
 
+🌐 **Portfolio:** [Visit My Portfolio](https://dhushanth-srinivasa.vercel.app/)  
+📜 **Certifications:** [View Certification Repository](https://github.com/dhushanth05/Certifications)  
 📧 **Email:** sdhushanth123@gmail.com  
 💼 **LinkedIn:** [Dhushanth Srinivasa](https://linkedin.com/in/dhushanth-srinivasa)  
 🐙 **GitHub:** [dhushanth05](https://github.com/dhushanth05)
